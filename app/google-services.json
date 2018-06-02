@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "189697597656",
+    "firebase_url": "https://calculator-the-game-5d583.firebaseio.com",
+    "project_id": "calculator-the-game-5d583",
+    "storage_bucket": "calculator-the-game-5d583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189697597656:android:e32232e8a93d4905",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.button3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189697597656-53f0j7vkfchiu5ck3u93sp2k971fjd1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.button3d",
+            "certificate_hash": "9f5974c655253b08fec9bdac4bf52fa646acaf5e"
+          }
+        },
+        {
+          "client_id": "189697597656-ccdqsm2imfhrccubqpqj2h3vifsc7dek.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "189697597656-ccdqsm2imfhrccubqpqj2h3vifsc7dek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3zYs5FnXme79DXUlC-0VqrahPc29fvK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189697597656-ccdqsm2imfhrccubqpqj2h3vifsc7dek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
