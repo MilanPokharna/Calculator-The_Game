@@ -17,7 +17,6 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.logging.Level;
 
-// level = 3
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     static int moves = 3 ;
     static int goal = 12;
